@@ -10,4 +10,9 @@ Hello, comrade! My name's *Gabriel* but you can also call me *yatmish*. I'm on m
 <img src="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465">
 <img src="https://camo.githubusercontent.com/f09d3f3e61998d9739c01e5cc830744829525c00a21def15165bba865512548d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426173682d3364336433643f7374796c653d666c61742d737175617265266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465">
 
+*Contact Me!*
+
+Discord: dsc.bio/pinyosyatmishpyi
+Twitter: hsimtay
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatmish&layout=compact&theme=dark)](https://github.com/yatmish/github-readme-stats)
