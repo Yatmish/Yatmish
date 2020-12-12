@@ -12,7 +12,8 @@ Hello, comrade! My name's *Gabriel* but you can also call me *yatmish*. I'm on m
 
 *Contact Me!*
 
-Discord: dsc.bio/pinyosyatmishpyi
-Twitter: hsimtay
+*Discord*: dsc.bio/pinyosyatmishpyi
+
+*Twitter*: hsimtay
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatmish&layout=compact&theme=dark)](https://github.com/yatmish/github-readme-stats)
