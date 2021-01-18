@@ -1,6 +1,6 @@
 ## Yatmish <img style="height:2px;" src="https://a.deviantart.net/avatars/a/w/awesometereziplz.png?1">
 
-Hello, comrade! My name's *Gabriel* but you can also call me *yatmish*. I'm on my way to become a Full-Stack Developer, and always trying to expand my knowledge's horizon and... I like <a href="https://www.homestuck.com/story/1">Homestuck</a>? Yeah, I think that's a thing to put in this Read me.
+Hello! My name's *Gabriel* but you can also call me *yatmish*. I'm on my way to become a Full-Stack Developer, and always trying to expand my knowledge's horizon and... I like <a href="https://www.homestuck.com/story/1">Homestuck</a>? Yeah, I think that's a thing to put in this Read me.
 
 *Some toys that I usually use:*<br>
 <img src="https://camo.githubusercontent.com/190fb33f1d8cf3453c2672dfee886a0e8585bf0addd146fc62f2d2de346ea4eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d6564623230303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465">
@@ -10,10 +10,5 @@ Hello, comrade! My name's *Gabriel* but you can also call me *yatmish*. I'm on m
 <img src="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465">
 <img src="https://camo.githubusercontent.com/f09d3f3e61998d9739c01e5cc830744829525c00a21def15165bba865512548d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426173682d3364336433643f7374796c653d666c61742d737175617265266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465">
 
-*Contact Me!*
-
-*Discord*: dsc.bio/pinyosyatmishpyi
-
-*Twitter*: hsimtay
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatmish&layout=compact&theme=dark)](https://github.com/yatmish/github-readme-stats)
