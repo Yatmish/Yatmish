@@ -11,4 +11,4 @@ Hello! My name's *Gabriel* but you can also call me *yatmish*. I'm on my way to 
 <img src="https://camo.githubusercontent.com/f09d3f3e61998d9739c01e5cc830744829525c00a21def15165bba865512548d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426173682d3364336433643f7374796c653d666c61742d737175617265266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatmish&layout=compact&theme=dark)](https://github.com/yatmish/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTrigueiro&layout=compact&theme=dark)](https://github.com/yatmish/github-readme-stats)
