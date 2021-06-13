@@ -1,4 +1,4 @@
-## Yatmish <img style="height:2px;" src="https://a.deviantart.net/avatars/a/w/awesometereziplz.png?1">
+## Trigueiro
 
 Hello! My name's *Gabriel* but you can also call me *yatmish*. I'm on my way to become a Full-Stack Developer, and always trying to expand my knowledge's horizon.
 
